@@ -36,7 +36,7 @@ Having households with children showing potential as bike buyers, bunde bike pac
 - Kuagi Resources: The motivation behind the commencement of this project and thank you for guiding me through.
 - Mohammed Opeyemi: My Colleague, thanks for your support, and provision of materias that enhance my understanding, and performance. I look forward to us getting better.
 # Conclusion
-- **Target Audience Refinement: **
+- **Target Audience Refinement:**
 Our campaign strategy prioritizes a more refined understanding of our target audience. We aim to ensure a more personalized and impactful approach by leveraging data analytics and customer insights.
 - **Multichannel Engagement**
 To maximize reach, our campaigns will span across various channels, including social media, email marketing, and targeted online advertising.
